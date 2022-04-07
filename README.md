@@ -11,7 +11,7 @@
   <img align="center" alt="Ryzenen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ryzenen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ryzenen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ryzenen-pic" height="150" style="border-radius:50px;" src="https://yt3.ggpht.com/4hZOx1BdYguBSwlXqdtWmCjsIn6_E5B-RmaF-L0C6nFroWe-oHGtKP7DcqsNXSVo6ceb2h0L=s900-c-k-c0x00ffffff-no-rj?width=676&height=676">
+  <img align="right" alt="Ryzenen-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/ryzenen/ryzenen/main/Ryzenen%20Logo%20Png.png=676&height=676">
 </div>
   
   ##
