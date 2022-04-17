@@ -1,6 +1,3 @@
-## Ryzenen
-
-##
 
 <div>
       <a href = "https://github.com/ryzenencom"><img src="https://img.shields.io/badge/-Verified Organization-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
