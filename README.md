@@ -1,5 +1,9 @@
 
 <div>
+      
+      <img src="https://komarev.com/ghpvc/?username=ryzenen&label=Ziyaret%C3%A7i&color=08b4ce"/>
+
+      
       <a href = "https://github.com/ryzenencom"><img src="https://img.shields.io/badge/-Verified Organization-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </div>
   
