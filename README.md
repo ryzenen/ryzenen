@@ -35,5 +35,3 @@
  
 </div>
       
-            <img src="https://komarev.com/ghpvc/?username=ryzenen&label=Ziyaret%C3%A7i&color=08b4ce"/>
-
