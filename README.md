@@ -4,7 +4,7 @@
   </div>
   
   ##
-<img src="https://komarev.com/ghpvc/?username=ryzenen&label=Ziyaret%C3%A7i&color=08b4ce"/>
+<img src="https://komarev.com/ghpvc/?username=ryzenen&label=GitHub%C3%A7i&color=08b4ce"/>
 
 <div align="left">
   <a href="https://github.com/ryzenen">
