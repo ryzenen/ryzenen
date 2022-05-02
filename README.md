@@ -4,7 +4,8 @@
   </div>
   
   ##
-  
+<img src="https://komarev.com/ghpvc/?username=ryzenen&label=Ziyaret%C3%A7i&color=08b4ce"/>
+
 <div align="left">
   <a href="https://github.com/ryzenen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryzenen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
