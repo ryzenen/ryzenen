@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/ryzenen/ryzenen/main/2EG3tlXZ.gif)](https://ryzenen.com/)
+[![]()](https://ryzenen.com/)
 
 ### Languages
 
