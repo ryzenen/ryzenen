@@ -1,36 +1,19 @@
+[![](https://raw.githubusercontent.com/ryzenen/ryzenen/main/2EG3tlXZ.gif)](https://ryzenen.com/)
 
-<div>
-<a href = "https://github.com/ryzenencom"><img src="https://img.shields.io/badge/-Verified Organization-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  </div>
-  
-  ##
-<img src="https://komarev.com/ghpvc/?username=ryzenen&label=Visitor&color=08b4ce"/>
+### Languages
 
-<div align="left">
-  <a href="https://github.com/ryzenen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryzenen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="top" alt="Ryzenen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="top" alt="Ryzenen-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="top" alt="Ryzenen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="top" alt="Ryzenen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="top" alt="Ryzenen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="top" alt="Ryzenen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="top" alt="Ryzenen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ryzenen-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/ryzenen/ryzenen/main/Ryzenen%20Logo%20Png.png">
-</div>
-  
-  ##
- 
-<div> 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
-  <a href="https://www.youtube.com/c/ryzenen" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ryzenenn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ryzenen" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contact@ryzenen.com"><img src="https://img.shields.io/badge/-Contact-0980ef?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### Technologies
 
-  ![Animation](https://github.com/ryzenen/ryzenen/blob/main/snake.svg)
- 
-</div>
-      
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
+<a href="https://ryzenen.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ryzenen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzenen&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
