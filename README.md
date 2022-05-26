@@ -1,7 +1,7 @@
 
 
 <p>
-<a href ="https://discord.com/users/852613869406912563"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/852613869406912563?bg=121212" width="418"></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/852613869406912563)](https://discord.com/users/852613869406912563)
 </p>
 <p align="center">
 	<h4 align="center">
