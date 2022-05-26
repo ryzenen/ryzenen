@@ -16,4 +16,4 @@
 	<img  src="http://github-readme-streak-stats.herokuapp.com?user=ryzenen&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00"/>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852613869406912563)](https://discord.com/users/852613869406912563)
+[![Discord](https://lanyard.cnrad.dev/api/852613869406912563)](https://discord.com/users/852613869406912563)
