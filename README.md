@@ -1,7 +1,7 @@
 
 
 <p>
-	<h3 align="center">Hi, I'm Ryzenen</h3>
+<a href ="https://discord.com/users/852613869406912563"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/853820912628269088?bg=121212" width="418"></a>
 </p>
 <p align="center">
 	<h4 align="center">
