@@ -1,18 +1,25 @@
-[![]()](https://ryzenen.com/)
 
-### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) and more...
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-
+<p>
+	<h3 align="center">Hi, I'm Ryzenen</h3>
+</p>
+<p align="center">
+	<h4 align="center">
+    💻 Web Developer 
+    🎮 Streamer  
+    📏 Designer <br>
+	and everything in between
+	</h4>
+</p>
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=ryzenen&theme=github_dark&hide_border=true" />
+</p>
+<p align="center">
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzenen&theme=github_dark&layout=compact&hide_border=true&card_width=445"/>
+</p>
+<p align="center">
+	<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ryzenen&theme=github_dark&hide_border=true&card_width=445&layout=compact"/>
+</p>
+<p align="center">
+	<img  src="http://github-readme-streak-stats.herokuapp.com?user=ryzenen&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00"/>
+</p>
