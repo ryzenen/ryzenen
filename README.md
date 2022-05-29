@@ -6,8 +6,8 @@
 <p align="center">
 	<h4 align="center">
     💻 Web Developer 
-    🎮 Streamer  
-    📏 Designer <br>
+    🎨 Designer  
+    ✅ Influencer <br>
 	and everything in between
 	</h4>
 </p>
