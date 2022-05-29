@@ -1,5 +1,5 @@
 
-[![Discord](https://lanyard.cnrad.dev/api/852613869406912563)](https://discord.com/users/852613869406912563)
+[![Discord](https://ryzenen.github.io/ryzenen/discord)](https://discord.com/users/852613869406912563)
 
 
 <p>
