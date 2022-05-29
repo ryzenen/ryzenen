@@ -28,7 +28,7 @@
             
             <div style="                     display: flex;                     flex-direction: row;                     height: 150px;                     justify-content: center;                     align-items: center;                 ">
                     <p style="                         font-style: italic;                         font-size: 0.8rem;                         color: #aaa;                         height: auto;                         text-align: center;                     ">
-                        I'm not currently doing anything!
+                        Şu anda hiçbir şey yapmıyor!
                     </p>
                 </div>
 
