@@ -2,15 +2,6 @@
 [![Discord](https://ryzenen.github.io/ryzenen/discord.svg)](https://discord.com/users/852613869406912563)
 
 
-<p>
-<p align="left">
-	<h4 align="left">
-    💻 Web Developer |
-    🎨 Designer |
-    ✅ Influencer <br>
-	and everything in between
-	</h4>
-</p>
 <p align="left">
     <img  src="https://github-readme-stats.vercel.app/api?username=ryzenen&theme=github_dark&hide_border=true" />
 </p>
