@@ -17,7 +17,7 @@
                                 
                                     <h1 style="                                         font-size: 0.9rem;                                         margin-top: 16px;                                         color: #aaa;                                         font-weight: lighter;                                         overflow: hidden;                                         white-space: nowrap;                                         text-overflow: ellipsis;                                     ">
                                     
-                                        <img src="data:image/Ryzenen%20Logo%20Png.png?raw=true" style="                                             width: 15px;                                             height: 15px;                                             position: relative;                                             top: 10px;                                             transform: translate(0%, -50%);                                             margin: 0 2px 0 0;                                         " />
+                                        <img src="data:image/png;Ryzenen%20Logo%20Png.png?raw=true" style="                                             width: 15px;                                             height: 15px;                                             position: relative;                                             top: 10px;                                             transform: translate(0%, -50%);                                             margin: 0 2px 0 0;                                         " />
                                     ryzenen.com
                                 </h1>
                             </div>
