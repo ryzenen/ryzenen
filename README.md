@@ -1,5 +1,5 @@
 
-[![Discord](https://ryzenen.github.io/ryzenen/discord.svg)](https://discord.com/users/852613869406912563)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852613869406912563)](https://discord.com/users/852613869406912563)
 
 ```javascript
 const ryzenen = {
