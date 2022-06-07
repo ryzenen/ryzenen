@@ -1,6 +1,24 @@
 
 [![Discord](https://ryzenen.github.io/ryzenen/discord.svg)](https://discord.com/users/852613869406912563)
 
+```javascript
+const ryzenen = {
+    personalty: {
+        job: ["Web Developer"],
+        sex: ["Male"],
+},               
+    code: ["Javascript", "C#", "HTML", "CSS", "PYTHON" "PHP"],
+    askMeAbout: ["full stack", "game", "music"],
+    technologies: {
+       mobile: ["iPhone"],
+       computer: ["Windows", "Linux"],
+    backEnd: {
+        php: ["pchart", "ratchet", "mink"],
+},
+    databases: ["MySql"],
+}},
+```
+
 
 <p align="left">
     <img  src="https://github-readme-stats.vercel.app/api?username=ryzenen&theme=github_dark&hide_border=true" />
