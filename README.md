@@ -1,4 +1,4 @@
-
+[![Discord Ryzenen#5194](https://ryzenen.github.io/ryzenen/discord.svg)](https://discord.com/users/852613869406912563)
 
 ```javascript
 const ryzenen = {
